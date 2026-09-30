@@ -26,6 +26,9 @@ main.obj: C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdbool
 main.obj: C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/interrupt.h
 main.obj: ../lcd.h
 main.obj: ../movement.h
+main.obj: ../cyBot_uart.h
+main.obj: C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdlib.h
+main.obj: ../button.h
 
 ../main.c:
 
@@ -78,4 +81,10 @@ C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/interrupt.h:
 ../lcd.h:
 
 ../movement.h:
+
+../cyBot_uart.h:
+
+C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include/stdlib.h:
+
+../button.h:
 
